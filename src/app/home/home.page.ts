@@ -8,7 +8,10 @@ import { DataService, Message } from '../services/data.service';
 })
 export class HomePage {
   constructor(private data: DataService) {}
-
+  slideOpts = {
+    initialSlide: 0,
+    speed: 400
+  };
   refresh(ev) {
     setTimeout(() => {
       ev.detail.complete();
