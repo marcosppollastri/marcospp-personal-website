@@ -1,0 +1,38 @@
+{
+  "workplaces": [
+    {
+      "name": "Node.js Developer",
+      "place": "IncluIT",
+      "country": "Argentina",
+      "dates": "Nov 2020 - Actualidad",
+      "description": "I work developing Node.js microservices solutions for one of the biggest financial companies of Argentina, Naranja",
+      "avatar": "assets/img/workplaces/incluit.jpeg"
+    },
+    {
+      "name": "Fullstack Web Developer",
+      "place": "Ministerio de Vivienda, Tierras y Hábitat Social de la Provincia de La Rioja",
+      "country": "Argentina",
+      "dates": "May 2019 - Mar 2021",
+      "description": "Part of the Systems Development Division. Developed projects in Node.js and Ionic Framework.",
+      "avatar": "assets/img/workplaces/vivienda.jpg"
+    },
+    {
+      "name": "Fullstack Web Developer",
+      "place": "Appstract",
+      "country": "Argentina",
+      "dates": "Jul 2019 - Dec 2021",
+      "description": "I developed serverless functions with Firebase, API REST in Node.js and front-end applications with Ionic/Angular.",
+      "avatar": "assets/img/workplaces/appstract.png"
+    },
+    {
+      "name": "Programming Teacher",
+      "place": "UNLaR",
+      "country": "Argentina",
+      "dates": "Sept 2018 - May 2019",
+      "description": "I teached programming basics in Java as part of the Plan 111Mil program, in the Universidad Nacional de La Rioja (National University of La Rioja)",
+      "avatar": "assets/img/workplaces/unlar.jpeg"
+    }
+
+
+  ]
+}

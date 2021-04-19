@@ -7,6 +7,7 @@ import { HomePage } from './home.page';
 import { HomePageRoutingModule } from './home-routing.module';
 import { MessageComponentModule } from '../message/message.module';
 import { AboutMeModule } from '../components/about-me/about-me.module';
+import { WorkExperienceModule } from '../components/work-experience/work-experience.module';
 
 @NgModule({
   imports: [
@@ -15,7 +16,8 @@ import { AboutMeModule } from '../components/about-me/about-me.module';
     IonicModule,
     MessageComponentModule,
     HomePageRoutingModule,
-    AboutMeModule
+    AboutMeModule,
+    WorkExperienceModule
   ],
   declarations: [HomePage]
 })
