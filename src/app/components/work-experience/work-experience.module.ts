@@ -4,7 +4,7 @@ import { FormsModule } from '@angular/forms';
 import { IonicModule } from '@ionic/angular';
 import { HomePageRoutingModule } from 'src/app/home/home-routing.module';
 import { MessageComponentModule } from 'src/app/message/message.module';
-import { AboutMeComponent } from './about-me.component';
+import { WorkExperienceComponent } from './work-experience.component';
 
 
 
@@ -14,7 +14,7 @@ import { AboutMeComponent } from './about-me.component';
     FormsModule,
     IonicModule,
   ],
-  declarations: [AboutMeComponent],
-  exports: [AboutMeComponent]
+  declarations: [WorkExperienceComponent],
+  exports: [WorkExperienceComponent]
 })
-export class AboutMeModule { }
+export class WorkExperienceModule { }

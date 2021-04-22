@@ -1,0 +1,16 @@
+{
+  "social-media": [
+    {
+      "name": "LinkedIn",
+      "description": "in/mppollastri",
+      "avatar": "logo-linkedin",
+      "url": "https://www.linkedin.com/in/mppollastri/"
+    },
+    {
+      "name": "GitHub",
+      "description": "/marcosppollastri",
+      "avatar": "logo-github",
+      "url": "https://github.com/marcosppollastri"
+    }
+  ]
+}
