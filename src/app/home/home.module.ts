@@ -8,6 +8,7 @@ import { HomePageRoutingModule } from './home-routing.module';
 import { MessageComponentModule } from '../message/message.module';
 import { AboutMeModule } from '../components/about-me/about-me.module';
 import { WorkExperienceModule } from '../components/work-experience/work-experience.module';
+import { SocialMediaModule } from '../components/social-media/social-media.module';
 
 @NgModule({
   imports: [
@@ -17,7 +18,8 @@ import { WorkExperienceModule } from '../components/work-experience/work-experie
     MessageComponentModule,
     HomePageRoutingModule,
     AboutMeModule,
-    WorkExperienceModule
+    WorkExperienceModule,
+    SocialMediaModule
   ],
   declarations: [HomePage]
 })
